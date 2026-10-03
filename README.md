@@ -73,6 +73,3 @@ We tested ShelfLife manually by walking through the main user flows for each rol
 ## Team
 
 Ariz Nawaz, Madhav Sabu, Vineeth Kanpa, Jiya Bhan, Keila Olaverria
-
-## Demo
-Demo link: https://www.youtube.com/watch?v=jpNh5U-58YQ
